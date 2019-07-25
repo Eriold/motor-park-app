@@ -1,0 +1,181 @@
+[{
+        "id": 1,
+        "register_number": "ABC-123",
+        "year": "2001",
+        "model": "Hatchback",
+        "make": "SUZUKI",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 2,
+        "register_number": "ABC-124",
+        "year": "2002",
+        "model": "Sedan",
+        "make": "SUZUKI",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 3,
+        "register_number": "ABC-125",
+        "year": "2019",
+        "model": "Coupe",
+        "make": "MERCEDES-BENZ",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 4,
+        "register_number": "ABC-126",
+        "year": "2004",
+        "model": "Sedan",
+        "make": "SUZUKI",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 5,
+        "register_number": "ABC-127",
+        "year": "2005",
+        "model": "MPV",
+        "make": "MAZDA",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 6,
+        "register_number": "ABC-128",
+        "year": "2006",
+        "model": "Coupe",
+        "make": "AUDI",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 7,
+        "register_number": "ABC-129",
+        "year": "2007",
+        "model": "SUV",
+        "make": "KIA",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 8,
+        "register_number": "ABC-130",
+        "year": "2003",
+        "model": "Crossover",
+        "make": "NISSAN",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 9,
+        "register_number": "ABC-131",
+        "year": "2005",
+        "model": "Hatchback",
+        "make": "HYUNDAI",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 10,
+        "register_number": "ABC-132",
+        "year": "2007",
+        "model": "Coupe",
+        "make": "MERCEDES-BENZ",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 11,
+        "register_number": "ABC-133",
+        "year": "2009",
+        "model": "Convertible",
+        "make": "AUDI",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 12,
+        "register_number": "ABC-134",
+        "year": "2010",
+        "model": "MPV",
+        "make": "TOYOTA",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 13,
+        "register_number": "ABC-135",
+        "year": "2011",
+        "model": "Hatchback",
+        "make": "SUZUKI ",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 14,
+        "register_number": "ABC-136",
+        "year": "2012",
+        "model": "SUV",
+        "make": "HYUNDAI",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 15,
+        "register_number": "ABC-137",
+        "year": "2013",
+        "model": "MPV",
+        "make": "TOYOTA",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 16,
+        "register_number": "ABC-138",
+        "year": "2014",
+        "model": "Convertible",
+        "make": "FERRARI",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 17,
+        "register_number": "ABC-139",
+        "year": "2015",
+        "model": "MPV",
+        "make": "MITSUBISHI",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 18,
+        "register_number": "ABC-140",
+        "year": "2016",
+        "model": "SUV",
+        "make": "HYUNDAI",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 19,
+        "register_number": "ABC-141",
+        "year": "2017",
+        "model": "Hatchback",
+        "make": "HYUNDAI",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    },
+    {
+        "id": 20,
+        "register_number": "ABC-142",
+        "year": "2018",
+        "model": "Crossover",
+        "make": "VOLVO",
+        "description": "A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.",
+        "state": "ON"
+    }
+]
