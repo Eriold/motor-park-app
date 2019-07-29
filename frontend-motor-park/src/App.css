@@ -1,0 +1,32 @@
+*,
+html {
+    box-sizing: border-box;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-title {
+    text-align: center;
+    color: rgb(56, 59, 230);
+    font-size: 3em;
+}
+
+.car-container {
+    border: 3px solid rgb(61, 167, 167);
+    color: rgb(69, 121, 219);
+    padding: 20px;
+    text-align: center;
+    margin: 7px auto;
+    width: 430px;
+}
+
+.overview-img {
+    max-width: 300px;
+    max-height: 300px;
+    margin: 5px;
+}
+
+.icon {}
