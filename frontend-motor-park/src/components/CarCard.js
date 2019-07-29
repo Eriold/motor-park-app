@@ -1,10 +1,5 @@
 import React, { Component } from "react";
-
 export default class CarCard extends Component {
-  state = {
-    checked: false
-  };
-
   render() {
     const { register_number, year, model, make } = this.props;
     return (

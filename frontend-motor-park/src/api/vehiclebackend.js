@@ -15,3 +15,6 @@ export function getData(callback, errorcallback) {
       }
     });
 }
+
+export const getDataId = id =>
+  axios.get(url + id).then(response => response.data);

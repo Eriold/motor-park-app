@@ -3,24 +3,30 @@ html {
     box-sizing: border-box;
 }
 
+.main-content {
+    max-width: 100%;
+}
+
 .content {
     display: flex;
     flex-wrap: wrap;
+    width: 90%;
+    margin: 0px auto;
 }
 
 .main-title {
     text-align: center;
-    color: rgb(56, 59, 230);
+    color: rgb(0, 0, 0);
     font-size: 3em;
 }
 
 .car-container {
-    border: 3px solid rgb(61, 167, 167);
-    color: rgb(69, 121, 219);
+    border: 3px solid #ffc67b;
+    color: rgb(0, 0, 0);
     padding: 20px;
     text-align: center;
     margin: 7px auto;
-    width: 430px;
+    width: 400px;
 }
 
 .overview-img {
@@ -29,4 +35,49 @@ html {
     margin: 5px;
 }
 
-.icon {}
+.contain-nav {
+    max-width: 90%;
+    margin: 0px auto;
+}
+
+.icons-nav {
+    height: 60px;
+}
+
+.ulnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffa420;
+}
+
+.nav-li {
+    float: right;
+    height: 10px;
+}
+
+.nav-link {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 2px 20px;
+    text-decoration: none;
+}
+
+p {
+    padding: 4px 20px;
+}
+
+.nav-li .nav-link:hover {
+    background-color: #111;
+}
+
+.img-nav {
+    height: 40%;
+}
+
+.about-inf {
+    margin: 0px auto;
+    color: green;
+}

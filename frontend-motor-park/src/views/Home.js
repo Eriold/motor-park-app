@@ -20,11 +20,12 @@ export class Home extends Component {
   }
   render() {
     const { data } = this.state;
+
     return (
       <div>
         <MainLayout>
           {data.map(vehicle => (
-            <CarCard {...vehicle} />
+            <CarCard key={vehicle.id} {...vehicle} />
           ))}
         </MainLayout>
       </div>
