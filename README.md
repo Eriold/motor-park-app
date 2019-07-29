@@ -10,7 +10,7 @@ inside the folder **frontend-motor-park** open the console and execute
 
 `npm start`
 
-inside the folder **backend-motor-park** open the consol and excecute
+inside the folder **backend-motor-park** open the console and excecute
 
 `npm install`
 
