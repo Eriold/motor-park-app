@@ -18,7 +18,7 @@ export const Navbar = () => {
             </Link>
           </li>
           <li className="nav-li">
-            <Link className="nav-link" exact to="/vehicle/id">
+            <Link className="nav-link" exact to={`/VehicleId/`}>
               <img src={Search} alt="search" className="icons-nav" />
             </Link>
           </li>

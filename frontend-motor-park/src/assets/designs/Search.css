@@ -1,0 +1,17 @@
+.search {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+}
+
+.searchTerm {
+    width: 20%;
+    border: 3px solid #ffc67b;
+    padding: 10px;
+    height: 20px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    color: rgb(250, 163, 24);
+    font-size: 20px;
+}
