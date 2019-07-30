@@ -2,6 +2,8 @@
 
 Small app fullstacks
 
+You need install [NodeJS](https://nodejs.org) any version.
+
 For start you need install dependences in each project
 
 inside the folder **frontend-motor-park** open the console and execute
